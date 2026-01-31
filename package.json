@@ -1,0 +1,22 @@
+{
+  "name": "it23589322-playwright",
+  "version": "1.0.0",
+  "description": "ITPM Assignment 1",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonaldamsith03/IT23589322-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonaldamsith03/IT23589322-Playwright/issues"
+  },
+  "homepage": "https://github.com/Sonaldamsith03/IT23589322-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
