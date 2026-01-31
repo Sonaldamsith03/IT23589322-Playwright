@@ -17,3 +17,7 @@ This Playwright project automates 35 test scenarios to evaluate the accuracy and
 4. To run this repo
    ```bash
    npx playwright test --project=chromium
+
+Proof image for the testing
+   <img width="1008" height="873" alt="image" src="https://github.com/user-attachments/assets/12b90395-46b4-4fb9-a75b-382935efece1" />
+
