@@ -4,7 +4,7 @@ module.exports = defineConfig({
   testDir: './tests',
   fullyParallel: false, 
   workers: 1,           
-  timeout: 600000, // 10 minutes total
+  timeout: 600000, 
   reporter: 'html',
   use: {
     baseURL: 'https://www.swifttranslator.com/',
