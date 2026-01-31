@@ -13,3 +13,7 @@ This Playwright project automates 35 test scenarios to evaluate the accuracy and
 3. Install dependencies:
    ```bash
    npm install
+
+4. To run this repo
+   ```bash
+   npx playwright test --project=chromium
